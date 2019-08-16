@@ -20,3 +20,4 @@ const AppNavigator = createStackNavigator({
 );
 
 const AppContainer = createAppContainer(AppNavigator);
+This is new version
