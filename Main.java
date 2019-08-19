@@ -59,5 +59,3 @@ class Main
             System.out.println(ar.get(i)); 
     } 
 } 
-
-This is new version
