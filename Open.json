@@ -14,3 +14,5 @@ localStorage.setItem("testJSON", myJSON);
 text = localStorage.getItem("testJSON");
 obj = JSON.parse(text);
 document.getElementById("demo").innerHTML = obj.name;
+
+This is new version
