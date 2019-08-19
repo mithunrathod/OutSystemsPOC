@@ -21,4 +21,4 @@ const AppNavigator = createStackNavigator({
 
 const AppContainer = createAppContainer(AppNavigator);
 
-Uploading file
+Uploading file. Js file
